@@ -1,3 +1,5 @@
+//AUTHOR: SEKTION
+
 window.onload = function () {
   document.querySelector("textarea").value = "";
 };
